@@ -1,0 +1,1 @@
+Command to install latest babel core: "npm install --save-dev @babel/core"
